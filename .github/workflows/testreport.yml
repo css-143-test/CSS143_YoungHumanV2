@@ -54,7 +54,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: student
-      - run: find student/ -name \*.java -exec cp {} src/main/java/ \;
+      - name: Copy files
+        run: find student/ -name \*.java -exec cp {} src/main/java/ \;
       - name: Set up JDK 1.8
         uses: actions/setup-java@v1
         with:
