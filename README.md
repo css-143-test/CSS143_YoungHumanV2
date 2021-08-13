@@ -5,7 +5,7 @@ This repository contains starter code for your assignment.
 Download them and edit them in your IDE according to assignment directions. 
 If you've already started your assignment, just upload your code. 
 
-Once you're ready to test them, upload them here and they will be tested using GitHub Actions. 
+Once you're ready to test them, edit the template files and they will be tested using GitHub Actions. 
 
 You'll get 3 kinds of feedback:
 1. Checkstyle feedback on code style mistakes in the Google Java Style 
