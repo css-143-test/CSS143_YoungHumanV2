@@ -5,6 +5,13 @@ This repository contains starter code for your assignment.
 Download them and edit them in your IDE according to assignment directions. 
 If you've already started your assignment, just upload your code. 
 
+You'll get 3 kinds of feedback:
+1. Checkstyle feedback on code style mistakes in the Google Java Style 
+2. Misspell report on detected misspellings in your code and comments
+3. Unit tests by JUnit, testing if your functions are performing as expected
+
+To view feedback go to the Actions tab above and click on the lastest workflow. 
+
 ## Action
 Once you're ready to test them, edit the template files and they will be tested using GitHub Actions. 
 This is the action page: <br>
@@ -20,13 +27,6 @@ This means the workflow is failed. You can see your details in the reports insid
 This means the workflow is passed, but you should check the reports to check your code style is good enough and any misspell occurs.<br>
 ![image](https://user-images.githubusercontent.com/54456351/119813818-95119600-be9e-11eb-82e5-d247541062cb.png) <br><br>
 
-You'll get 3 kinds of feedback:
-1. Checkstyle feedback on code style mistakes in the Google Java Style 
-2. Misspell report on detected misspellings in your code and comments
-3. Unit tests by JUnit, testing if your functions are performing as expected
-
-To view feedback go to the Actions tab above and click on the lastest workflow. 
-
 ## CheckStyle
 Click on the left sidebar on "checkstyle" to view the Checkstyle report. <br>
 ![image](https://user-images.githubusercontent.com/54456351/129306692-6959b6b7-308c-452e-aa44-64fd21ee95de.png)
@@ -38,11 +38,12 @@ Click "misspell" to view found mispellings.
 ![image](https://user-images.githubusercontent.com/54456351/129307048-27f9297e-b80c-4e16-b430-9923917aa2a3.png)
 
 ## JUnit Report
-Click "Compile-Run-Report" to download the report and view the result
+Scroll to the bottom and download the artifact to view your detailed test report. <br>
+Click "Compile-Run-Report" to download the report. 
+It will show your current score on the assignment based on the tests we've written. 
+
 ![image](https://user-images.githubusercontent.com/54456351/129307490-b6f27859-9ea2-4b68-8712-9b211b827322.png)
 
-Scroll to the bottom and download the artifact to view your detailed test report. 
-It will show your current score on the assignment based on the tests we've written. 
 
 Incorporate this feedback into your code. Fix code style errors, misspellings, and code logic that is causing
 unit test failures. 
