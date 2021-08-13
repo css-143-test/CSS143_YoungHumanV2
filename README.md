@@ -27,11 +27,13 @@ You'll get 3 kinds of feedback:
 
 To view feedback go to the Actions tab above and click on the lastest workflow. 
 
+## CheckStyle
 Click on the left sidebar on "checkstyle" to view the Checkstyle report. <br>
 ![image](https://user-images.githubusercontent.com/54456351/129306692-6959b6b7-308c-452e-aa44-64fd21ee95de.png)
 For more detatils on the CheckStyle warning, you can view this website: https://pisana.github.io/checkstyle-webpage/
 If you see your warnings on the website, please fill this survey so that we can add them: 
 
+## Misspell
 Click "misspell" to view found mispellings.
 ![image](https://user-images.githubusercontent.com/54456351/129307048-27f9297e-b80c-4e16-b430-9923917aa2a3.png)
 
