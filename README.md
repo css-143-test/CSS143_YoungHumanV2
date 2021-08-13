@@ -29,9 +29,10 @@ The green circle means the workflow is passed, but you should check the reports 
 
 ## CheckStyle
 Click on the left sidebar on "checkstyle" to view the Checkstyle report. <br>
-![image](https://user-images.githubusercontent.com/54456351/129306692-6959b6b7-308c-452e-aa44-64fd21ee95de.png)
-For more detatils on the CheckStyle warning, you can view this website: https://pisana.github.io/checkstyle-webpage/ <br>
-If you see your warnings on the website, please fill this survey so that we can add them: https://docs.google.com/forms/d/e/1FAIpQLSf1M4lW8zU0gfX2b0JHl3O0-vluhYhtCcvS2Ox0z3LDCwWEHg/viewform <br>
+![image](https://user-images.githubusercontent.com/54456351/129306692-6959b6b7-308c-452e-aa44-64fd21ee95de.png) <br>
+For more detatils on the CheckStyle warning, you can view this website:  <a href="https://pisana.github.io/checkstyle-webpage/">checkstyle-webpage</a>
+ <br>
+If you see your warnings on the website, please fill this survey so that we can add them: <a href="https://docs.google.com/forms/d/e/1FAIpQLSf1M4lW8zU0gfX2b0JHl3O0-vluhYhtCcvS2Ox0z3LDCwWEHg/viewform">New CheckStyle Warning</a> <br>
 
 ## Misspell
 Click "misspell" to view found mispellings.
