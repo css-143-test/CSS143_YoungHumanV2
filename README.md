@@ -3,6 +3,7 @@
 Repository contains starter code for your assignment. 
 
 Download them and edit them in your IDE according to assignment directions. 
+If you've already started your assignment, just upload your code. 
 
 Once you're ready to test them, upload them here and they will be tested using GitHub Actions. 
 
