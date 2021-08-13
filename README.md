@@ -12,13 +12,13 @@ This is the action page: <br>
 The workflow are your commissions from newest to latest. <br>
 Click on the one that you want to see the report. <br><br>
 This means the workflow is in progress, and you have to wait until it changes the status.<br>
-![image](https://user-images.githubusercontent.com/54456351/119813577-51b72780-be9e-11eb-8449-c84e2850f125.png) <br><br><br>
+![image](https://user-images.githubusercontent.com/54456351/119813577-51b72780-be9e-11eb-8449-c84e2850f125.png) <br><br>
 
 This means the workflow is failed. You can see your details in the reports inside it.<br>
-![image](https://user-images.githubusercontent.com/54456351/119813655-65628e00-be9e-11eb-8c27-8b42a9e71304.png) <br><br><br>
+![image](https://user-images.githubusercontent.com/54456351/119813655-65628e00-be9e-11eb-8c27-8b42a9e71304.png) <br><br>
 
 This means the workflow is passed, but you should check the reports to check your code style is good enough and any misspell occurs.<br>
-![image](https://user-images.githubusercontent.com/54456351/119813818-95119600-be9e-11eb-82e5-d247541062cb.png) <br><br><br>
+![image](https://user-images.githubusercontent.com/54456351/119813818-95119600-be9e-11eb-82e5-d247541062cb.png) <br><br>
 
 You'll get 3 kinds of feedback:
 1. Checkstyle feedback on code style mistakes in the Google Java Style 
