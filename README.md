@@ -1,4 +1,6 @@
-# CSS143_YoungHumanV2
+# Providing Automated Feedback on Programming Assignments
+
+## CSS143_YoungHumanV2
 
 This repository contains starter code for your assignment. 
 
