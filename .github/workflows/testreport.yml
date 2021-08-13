@@ -29,7 +29,13 @@ jobs:
       - name: Install Python dependencies
         run: python3 -m pip install -r requirements.txt
       - name: Build with Maven and Produce Test Report
-        run: python3 testreport.py scores.txt
+        run: |
+          git clone https://github.com/css-143-test/CSS143_YoungHumanV2_Tests.git
+          mv Date.java CSS143_YoungHumanV2_Tests/src/main/java
+          mv Weight.java CSS143_YoungHumanV2_Tests/src/main/java
+          mv YoungHuman.java CSS143_YoungHumanV2_Tests/src/main/java
+          cd CSS143_YoungHumanV2_Tests
+          python3 testreport.py scores.txt
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
