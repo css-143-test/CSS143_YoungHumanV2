@@ -61,11 +61,8 @@ jobs:
           java-version: 1.8
       - name: Install Python dependencies
         run: python3 -m pip install -r requirements.txt
-      - name: Build with Maven
-        run:  mvn clean compile test --batch-mode --fail-at-end
-      - name: Run Test Report
-        if:   ${{ always() }}
-        run:  python3 testreport.py TextAnalysisTest.java scores.txt
+      - name: Build with Maven and Produce Test Report
+        run: python3 testreport.py scores.txt
       - name: Publish Test Report
         if:   ${{ always() }}
         uses: scacap/action-surefire-report@v1
