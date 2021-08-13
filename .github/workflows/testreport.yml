@@ -63,11 +63,12 @@ jobs:
         run: python3 -m pip install -r requirements.txt
       - name: Build with Maven and Produce Test Report
         run: python3 testreport.py scores.txt
-      - name: Publish Test Report
-        if:   ${{ always() }}
-        uses: scacap/action-surefire-report@v1
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          name: Compile-Run-Report
+          path: out/
+          retention-days: 3
           
   misspell: # this checks spelling in comments
     name: misspell
