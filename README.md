@@ -54,6 +54,8 @@ Reupload your code and test again!
 
 Keep going until all tests are passed. 
 
-Then, please fill out this short survey, it will help us improve the project: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjyJHr3wpd2ltqcUBMkpLKZeFsQfcP-i724nrvtzvSmwIYTQ/viewform">Feedback for Github Integration Project</a>
-![image](https://user-images.githubusercontent.com/54456351/129315466-40b6f16a-7852-4d2e-81f6-602ffd99601f.png)
+Then, please fill out this short survey, it will help us improve the project: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjyJHr3wpd2ltqcUBMkpLKZeFsQfcP-i724nrvtzvSmwIYTQ/viewform">Feedback for Github Integration Project</a><br><br>
+
+<img src="https://user-images.githubusercontent.com/54456351/129315466-40b6f16a-7852-4d2e-81f6-602ffd99601f.png" alt="Tech4Good" style="width:500px;height:600px;">
+
 
