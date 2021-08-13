@@ -1,5 +1,4 @@
-# Providing Automated Feedback on Programming Assignments
-<img src="https://user-images.githubusercontent.com/54456351/129316294-0778e2b4-a0dc-4665-bb1b-751fb67004c1.png" alt="HTML5 Icon" width="50" height="50">
+# Providing Automated Feedback on Programming Assignments <img src="https://user-images.githubusercontent.com/54456351/129316294-0778e2b4-a0dc-4665-bb1b-751fb67004c1.png" alt="HTML5 Icon" width="50" height="50">
 
 
 ## CSS143_YoungHumanV2
