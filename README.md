@@ -30,7 +30,7 @@ This means the workflow is passed, but you should check the reports to check you
 ## CheckStyle
 Click on the left sidebar on "checkstyle" to view the Checkstyle report. <br>
 ![image](https://user-images.githubusercontent.com/54456351/129306692-6959b6b7-308c-452e-aa44-64fd21ee95de.png)
-For more detatils on the CheckStyle warning, you can view this website: https://pisana.github.io/checkstyle-webpage/
+For more detatils on the CheckStyle warning, you can view this website: https://pisana.github.io/checkstyle-webpage/ <br>
 If you see your warnings on the website, please fill this survey so that we can add them: 
 
 ## Misspell
