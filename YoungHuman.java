@@ -60,7 +60,7 @@ public class YoungHuman implements Comparable<Object>, Cloneable, Serializable {
     //write your code here
   }
 
-  public String toString(){
+  public String toString() {
     //write your code here
     return "";
   }
