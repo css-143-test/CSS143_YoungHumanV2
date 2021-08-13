@@ -60,7 +60,7 @@ jobs:
           # Change reporter level if you need [info,warning,error].
           # GitHub Status Check won't become failure with a warning.
           level: warning
-          workdir: src/main
+          #workdir: src/main
 
   misspell: # this checks spelling in comments
     name: misspell
