@@ -56,6 +56,8 @@ jobs:
           path: student
       - name: Copy files
         run: find student/ -name \*.java -exec cp {} src/main/java/ \;
+      - name: Delete dir
+        run: rm -rf student/
       - name: Set up JDK 1.8
         uses: actions/setup-java@v1
         with:
@@ -64,8 +66,6 @@ jobs:
         run: python3 -m pip install -r requirements.txt
       - name: Build with Maven and Produce Test Report
         run: python3 testreport.py scores.txt
-      - name: Debug
-        run: ls src/main/java/
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
