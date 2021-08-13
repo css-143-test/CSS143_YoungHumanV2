@@ -37,6 +37,10 @@ If you see your warnings on the website, please fill this survey so that we can 
 Click "misspell" to view found mispellings.
 ![image](https://user-images.githubusercontent.com/54456351/129307048-27f9297e-b80c-4e16-b430-9923917aa2a3.png)
 
+## JUnit Report
+Click "Compile-Run-Report" to download the report and view the result
+![image](https://user-images.githubusercontent.com/54456351/129307490-b6f27859-9ea2-4b68-8712-9b211b827322.png)
+
 Scroll to the bottom and download the artifact to view your detailed test report. 
 It will show your current score on the assignment based on the tests we've written. 
 
