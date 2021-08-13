@@ -73,7 +73,7 @@ public class Weight implements Comparable<Object>, Cloneable, Serializable {
   }
     
   public Weight clone() {
-      //write your code here
-      return null;
+    //write your code here
+    return null;
   }
 }
