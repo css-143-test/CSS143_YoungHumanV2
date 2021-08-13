@@ -66,10 +66,12 @@ jobs:
         run: python3 -m pip install -r requirements.txt
       #- name: Build with Maven and Produce Test Report
       #  run: python3 testreport.py scores.txt
-      - name: Debug lol
-        run: javac src/main/java/Date.java |
-             javac src/main/java/YoungHuman.java |
-             javac src/main/java/Weight.java
+      - name: Debug lol 1
+        run: javac src/main/java/Date.java
+      - name: Debug lol 3
+        run: javac src/main/java/Weight.java
+      - name: Debug lol 2
+        run: javac src/main/java/YoungHuman.java
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
