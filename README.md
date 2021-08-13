@@ -53,4 +53,4 @@ Reupload your code and test again!
 
 Keep going until all tests are passed. 
 
-Then, please fill out this short survey, it will help us improve the project: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjyJHr3wpd2ltqcUBMkpLKZeFsQfcP-i724nrvtzvSmwIYTQ/viewform">checkstyle-webpage</a>
+Then, please fill out this short survey, it will help us improve the project: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjyJHr3wpd2ltqcUBMkpLKZeFsQfcP-i724nrvtzvSmwIYTQ/viewform">Feedback for Github Integration Project</a>
