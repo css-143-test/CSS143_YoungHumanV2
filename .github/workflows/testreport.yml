@@ -66,8 +66,9 @@ jobs:
         run: python3 -m pip install -r requirements.txt
       - name: Build with Maven and Produce Test Report
         run: |
-          mkdir out/
-          python3 testreport.py scores.txt > out/build.txt
+          mkdir build/
+          python3 testreport.py scores.txt > build/build.txt
+          mv build/build.txt out/
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
