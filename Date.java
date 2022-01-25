@@ -2,7 +2,7 @@ import java.io.Serializable;
 
 public class Date implements Comparable<Object>, Cloneable, Serializable {
 
-  private int month; 
+  private int month;
   private int day;    
   private int year; 
     
